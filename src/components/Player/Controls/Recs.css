@@ -8,3 +8,7 @@ img {
   height: 250px;
   width: 250px;
 }
+
+.Recs div{
+  cursor: pointer;
+}
