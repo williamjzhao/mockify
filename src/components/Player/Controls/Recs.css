@@ -1,0 +1,10 @@
+.Recs {
+  display: flex;
+  flex-direction: row;
+  overflow: scroll;
+}
+
+img {
+  height: 250px;
+  width: 250px;
+}
