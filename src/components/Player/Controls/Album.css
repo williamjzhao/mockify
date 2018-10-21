@@ -1,0 +1,9 @@
+.Album {
+  height: 350px;
+  width: 350px;
+  display: inline-block;
+}
+.Album img {
+  height: 100%;
+  width: 100%;
+}
